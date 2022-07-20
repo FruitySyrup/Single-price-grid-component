@@ -1,3 +1,6 @@
+![frontend2](https://user-images.githubusercontent.com/106176876/180077891-07d0db34-4e1a-42b1-a72f-7c1a137cb3ca.gif)
+
+
 # Frontend Mentor - Single price grid component solution
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). 
